@@ -1,67 +1,62 @@
-# Clone calculadora do windows ✅🧑🏽‍💻
+## 🎯 Clone da Calculadora do Windows
 
-## Acabei de concluir este projeto de uma calculadora clone do Windows, ela tem as principais operações matemáticas, inclusive raiz, potencia e porcentagem.
-
-No inicio comecei a logica utilizando eval no JavaScript para efetuas os cálculos mais basicos, porém depois de pesquisar mais afundo vi que não seria uma boa pratica visto que ele possui baixa segurança e seu tempo de execução é mais lento.
-
-Diante disto separei os numeradores e implementei a logica de calculo de cada um manualmente, tornando assim uma aplicação mais robusta!
-
-
-No desenvolvimento deste projeto utilizei diversas funções do JS:
-
-✔ - Manipulação de eventos (incluindo keydown para verificar se uma tecla é pressionada no teclado)
-
-✔ - Seletores
-
-✔ - Criação de variáveis 
-
-✔ - Funções 
-
-✔ - Estrutura condicional
-
-✔ - Math.sqrt() (para realizar calculo de raiz)
-
-✔ - Math.pow() (para realizar calculo de potencia)
-
-✔ - isNaN() (para verificar se de fato a tecla pressionada é um numero)
-
-✔ - parseFloat() (para analisar a string e converte-la em numero decimal)
-
-✔ - repleace() (converte uma strong por outra, no meu caso "," por ".")
-
-✔ - toString() (para exibir o valor na tela como string e ser mais facil de ser concatenado)
-
-✔ - includes() (esta verificando se o botão ou tecla pressionada é um operador valido)
-
-✔ - split() (esta sendo usado para dividir o resultado em partes)
-
-### Este foram os conhecimento aprendidos e revisados durante a construção desse projeto pessoal. 🚀
-
-## Tecnologias utilizdas para o desenvolvimento:
-<div style="display: flex">
-<img align="center" alt="icon-HTML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img align="center" alt="icon-CSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img align="center" alt="icon-JS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> 
-<img align="center" alt="icon-Tailwind" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />        
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/38ba1eb4-a745-4b24-b0d0-eb8cb6be4789" width="60%" alt="Preview Calculadora Windows" />
 </div>
 
+---
 
-#### Segue imagem da aplicação.
-![Macbook-Air-127 0 0 1](https://github.com/user-attachments/assets/38ba1eb4-a745-4b24-b0d0-eb8cb6be4789)
+### 💡 Sobre o projeto  
+Concluí este projeto pessoal recriando uma **calculadora inspirada no design e funcionamento da calculadora do Windows**.  
+Ela realiza as principais operações matemáticas, incluindo **raiz quadrada**, **potência** e **porcentagem**.
 
-# link do deploy:
-https://calculadora-windows-five.vercel.app/
+Inicialmente, utilizei a função `eval()` no JavaScript para efetuar os cálculos básicos, porém, após pesquisar mais a fundo, percebi que essa abordagem não era a mais adequada — tanto por questões de **segurança** quanto de **performance**.  
 
+Dessa forma, optei por **implementar manualmente toda a lógica dos cálculos**, separando os numeradores e operadores, resultando em uma aplicação mais **robusta, performática e segura**.  
 
-## Contatos: 📲
-<div>
-  <a href="https://wa.me/+5511964166962" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-  </a>
-  <a href="https://www.linkedin.com/in/americo-rodrigues-19741a10b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:americo.200422@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
+---
+
+### 🧠 Conceitos aplicados  
+
+Durante o desenvolvimento, revisei e pratiquei diversos conceitos fundamentais do JavaScript, como:  
+
+* Manipulação de eventos (`click` e `keydown`)  
+* Seletores de elementos DOM  
+* Criação de variáveis e funções  
+* Estruturas condicionais  
+* `Math.sqrt()` — cálculo de raiz quadrada  
+* `Math.pow()` — cálculo de potência  
+* `isNaN()` — verificação de valores numéricos  
+* `parseFloat()` — conversão de string para número decimal  
+* `replace()` — substituição de caracteres (ex.: vírgula por ponto)  
+* `toString()` — exibição de valores como string  
+* `includes()` — verificação de operadores válidos  
+* `split()` — divisão de expressões para cálculo  
+
+Esses conceitos foram essenciais para aprimorar minha lógica e aprofundar o domínio sobre a linguagem. 🚀  
+
+---
+
+### 🧩 Tecnologias utilizadas  
+
+<div style="display: flex; gap: 10px;">
+  <img align="center" alt="icon-HTML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img align="center" alt="icon-CSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img align="center" alt="icon-JS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> 
+  <img align="center" alt="icon-Tailwind" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />        
 </div>
+
+---
+
+### 🌐 Acesse o projeto  
+👉 [**Calculadora Windows Clone**](https://calculadora-windows-five.vercel.app/)
+
+---
+
+### 📢 Publicação no LinkedIn
+[🔗 Ver post no LinkedIn](https://www.linkedin.com/posts/americo-rodrigues025_uma-excelente-tarde-a-todos-acabei-de-activity-7227394613509013504-hSQF/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABul9YMBX3D88nA61P0U6GXqpuH0DeuFo1I)
+
+---
+
+<div align="center">💻 Feito por Américo Rodrigues</div>
+
